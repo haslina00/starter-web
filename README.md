@@ -10,6 +10,7 @@ deployment of software
 ## How to Contribute
 here's how
 ### test1
+please fork this repository
 ##Copyright
 git training
 
