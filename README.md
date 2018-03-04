@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 the purpose of the software
 ## Deployment
 deployment of software
+to customers
 ## How to Contribute
 here's how
 ### test1
