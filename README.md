@@ -13,6 +13,6 @@ here's how to contribute to society
 ### test1
 please fork this repository
 ##Copyright
-git training
+git training. All rights reserved!
 
 Sample website with plenty of files for demos
