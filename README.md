@@ -10,6 +10,7 @@ deployment of software
 ## How to Contribute
 here's how
 ### test1
-
+##Copyright
+git training
 
 Sample website with plenty of files for demos
